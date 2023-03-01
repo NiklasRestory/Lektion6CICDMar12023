@@ -16,6 +16,18 @@ namespace Lektion6CICDexampleTest
 
             Assert.Equal(expected, actual);
         }
+        [Fact]
+        public void AddTest2()
+        {
+            int a = 8;
+            int b = 1;
+            int expected = 9;
+            Calculator calculator = new Calculator();
+
+            int actual = calculator.Add(a, b);
+
+            Assert.Equal(expected, actual);
+        }
 
         [Fact]
         public void SubtractTest()
