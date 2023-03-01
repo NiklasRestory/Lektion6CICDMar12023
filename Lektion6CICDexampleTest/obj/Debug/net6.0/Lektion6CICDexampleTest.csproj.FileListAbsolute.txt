@@ -1,0 +1,5 @@
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexampleTest\obj\Debug\net6.0\Lektion6CICDexampleTest.csproj.AssemblyReference.cache
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexampleTest\obj\Debug\net6.0\Lektion6CICDexampleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexampleTest\obj\Debug\net6.0\Lektion6CICDexampleTest.AssemblyInfoInputs.cache
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexampleTest\obj\Debug\net6.0\Lektion6CICDexampleTest.AssemblyInfo.cs
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexampleTest\obj\Debug\net6.0\Lektion6CICDexampleTest.csproj.CoreCompileInputs.cache

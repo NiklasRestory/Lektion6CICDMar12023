@@ -1,0 +1,15 @@
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\bin\Debug\net6.0\Lektion6CICDexample.exe
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\bin\Debug\net6.0\Lektion6CICDexample.deps.json
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\bin\Debug\net6.0\Lektion6CICDexample.runtimeconfig.json
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\bin\Debug\net6.0\Lektion6CICDexample.dll
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\bin\Debug\net6.0\Lektion6CICDexample.pdb
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.csproj.AssemblyReference.cache
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.AssemblyInfoInputs.cache
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.AssemblyInfo.cs
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.dll
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\refint\Lektion6CICDexample.dll
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.pdb
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\Lektion6CICDexample.genruntimeconfig.cache
+C:\Users\nikla\source\repos\Lektion6CICDexample\Lektion6CICDexample\obj\Debug\net6.0\ref\Lektion6CICDexample.dll
